@@ -25,21 +25,10 @@ OR
 Use **Python 3.7** and install all the dependencies with:
 ```
 pip install -r requirements.txt
-```
-Then, run the script file as show below:
-```
-python src\covid-vaccine-slot-booking.py
-```
-If you're on Linux, install the beep package before running the Python script. To install beep, run:
-```
-sudo apt-get install beep
-```
-If you already have a bearer token, you can also use:
-```
-python src\covid-vaccine-slot-booking.py --token=YOUR-TOKEN-HERE
-```
 
-### Third-Party Package Dependency:
-- ```tabulate``` : For displaying data in tabular format.
-- ```requests``` : For making GET and POST requests to the API.
-- ```inputimeout``` : For creating an input with timeout.
+
+Step to install Airmore : https://medium.com/@erayerdin/send-sms-with-python-eab7a5854d3a (Android)
+
+To keep screen on : https://play.google.com/store/apps/details?id=moe.zhs.caffeine&hl=en_IN&gl=US (Andriod)
+
+
