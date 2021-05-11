@@ -18,9 +18,12 @@
 
 ### Usage:
 
-For the anyone not familiar with Python and using Windows, using the ```covid-vaccine-slot-booking.exe``` executable file (EDIT: EXE is not working at the moment due to unresolved errors) would be the easiest way. It might trigger an anti-virus alert. That's because I used ```pyinstaller``` to package the python code and it needs a bit more effort to avoid such alerts.
 
-OR
+Step to install Airmore : https://medium.com/@erayerdin/send-sms-with-python-eab7a5854d3a (Android)
+
+To keep screen on : https://play.google.com/store/apps/details?id=moe.zhs.caffeine&hl=en_IN&gl=US (Andriod)
+
+Replace the IP in read_sms.py 
 
 Use **Python 3.7** and install all the dependencies with:
 ```
@@ -30,8 +33,6 @@ sudo apt-get install pkg-config libcairo2-dev gcc python3-dev libgirepository1.0
 
 pip install -r requirements.txt
 
-Step to install Airmore : https://medium.com/@erayerdin/send-sms-with-python-eab7a5854d3a (Android)
 
-To keep screen on : https://play.google.com/store/apps/details?id=moe.zhs.caffeine&hl=en_IN&gl=US (Andriod)
 
 
