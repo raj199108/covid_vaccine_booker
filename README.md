@@ -23,7 +23,7 @@ Step to install Airmore : https://medium.com/@erayerdin/send-sms-with-python-eab
 
 To keep screen on : https://play.google.com/store/apps/details?id=moe.zhs.caffeine&hl=en_IN&gl=US (Andriod)
 
-Replace the IP in read_sms.py 
+Replace the IP in read_sms.py with the one in Airmore
 
 Use **Python 3.7** and install all the dependencies with:
 ```
