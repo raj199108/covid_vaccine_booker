@@ -24,8 +24,11 @@ OR
 
 Use **Python 3.7** and install all the dependencies with:
 ```
-pip install -r requirements.txt
+sudo apt-get install python3-gi
 
+sudo apt-get install pkg-config libcairo2-dev gcc python3-dev libgirepository1.0-dev
+
+pip install -r requirements.txt
 
 Step to install Airmore : https://medium.com/@erayerdin/send-sms-with-python-eab7a5854d3a (Android)
 
