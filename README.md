@@ -1,4 +1,4 @@
-# COVID-19 Vaccination Slot Booking Script
+# COVID-19 Vaccination Semi-auto Slot Booking Script
 ## Update:
 ### **We are getting all kinds of attention now - which I do not want to handle. So there won't be any additional commits to this project. It has been put on indefinite hold.**
 
@@ -32,7 +32,6 @@ sudo apt-get install python3-gi
 sudo apt-get install pkg-config libcairo2-dev gcc python3-dev libgirepository1.0-dev
 
 pip install -r requirements.txt
-
 
 
 
